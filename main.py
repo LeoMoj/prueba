@@ -10,8 +10,9 @@ def prueba(x:int, y:int):
       y (int): the second number to be added
     
     Returns:
-       int: the sum of x and y
+       sum (int): the sum of x and y
     """
+
     return x + y
 
 if __name__ == "__main__":
